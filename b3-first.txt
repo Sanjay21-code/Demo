@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Created a file in branch3 as b3-first.txt
+=======
+branch3 
+>>>>>>> branch-1
